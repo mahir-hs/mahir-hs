@@ -1,5 +1,5 @@
 ![Hello world! ](https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg)
-
+![Visitor Count](https://profile-counter.glitch.me/{mahir-bot}/count.svg)
 This is *Mahir Hasan* from Bangladesh.
 
 - :🇧🇩: I live in with my family in Dhaka

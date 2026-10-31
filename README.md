@@ -47,7 +47,7 @@ I've been competing since 2020, on every judge I could get an account on. Here's
 
 ## Things I build
 
-Every card links to the real repo. Tetris links to a version you can play right now.
+Every card links to the real repo, and Tetris links to a version you can play right now. Brain MRI is a private research repo, so that card doesn't link anywhere yet.
 
 <table>
 <tr>
@@ -63,14 +63,18 @@ Every card links to the real repo. Tetris links to a version you can play right 
 <td width="50%"><a href="https://github.com/mahir-hs/EMS"><img src="assets/cards/ems.svg" alt="EMS, C#: .NET 9 and Angular 18 over three databases" width="100%" /></a></td>
 </tr>
 <tr>
+<td width="50%"><img src="assets/cards/brain-mri.svg" alt="Brain MRI with graph neural networks: thesis, 98.78 percent accuracy over three seeds. Private repository." width="100%" /></td>
 <td width="50%"><a href="https://github.com/mahir-hs/DRL-Bounded_Knapsack_problem"><img src="assets/cards/drl-knapsack.svg" alt="DRL Bounded Knapsack: thesis on deep reinforcement learning" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/mahir-hs/WalletTopUpSystem"><img src="assets/cards/wallet-topup.svg" alt="WalletTopUpSystem, C#: wallet top-up approval with k6 load tests" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/WalletTopUpSystem"><img src="assets/cards/wallet-topup.svg" alt="WalletTopUpSystem, C#: wallet top-up service with a k6 load script" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/Story-Stream"><img src="assets/cards/story-stream.svg" alt="Story Stream, Python: publishing platform API with Elasticsearch search" width="100%" /></a></td>
 </tr>
 </table>
 
 **The story behind Notif Guardian:** my Xiaomi phone kept delivering WhatsApp messages hours late. The usual advice is "enable autostart", and that wasn't the problem. On the device I traced it to HyperOS's *Millet* freezer cgroup-freezing Google Play services, the process that carries every push, the moment the screen turned off. It was missing from a system no-restrict list, and the OS rewrote that list whenever it liked. The app repairs it, and a tiny helper puts it back within about 20 ms each time the system wipes it. [Full write-up &rarr;](https://mahir-hs.github.io/notif-guardian/)
 
-**More in the lab:** [Library Management](https://github.com/mahir-hs/library-management) (.NET API + Angular 19) · [Story Stream](https://github.com/mahir-hs/Story-Stream) (Python API with Elasticsearch search) · [LeetCode](https://github.com/mahir-hs/LeetCode) (C++ solutions) · [Code-Library](https://github.com/mahir-hs/Code-Library) (my C++ contest library) · [aws-learn](https://github.com/mahir-hs/aws-learn) and [ci-cd-learn](https://github.com/mahir-hs/ci-cd-learn) (learning in public) · [all repositories &rarr;](https://github.com/mahir-hs?tab=repositories)
+**More in the lab:** [Library Management](https://github.com/mahir-hs/library-management) (.NET API + Angular 19) · [LeetCode](https://github.com/mahir-hs/LeetCode) (C++ solutions) · [Code-Library](https://github.com/mahir-hs/Code-Library) (my C++ contest library) · [aws-learn](https://github.com/mahir-hs/aws-learn) and [ci-cd-learn](https://github.com/mahir-hs/ci-cd-learn) (learning in public) · [all repositories &rarr;](https://github.com/mahir-hs?tab=repositories)
 
 <br/>
 

@@ -28,13 +28,16 @@ I've been competing since 2020. This is what that looks like when you plot it, s
 
 <img src="assets/cp_heat.svg" alt="Heatmap of 3,070 Codeforces submissions from 2020 to 2024, with breakdowns by difficulty and topic" width="100%" />
 
+<br/><br/>
+
+<img src="assets/cp_judges.svg" alt="Problems solved per judge: Codeforces 1,389, LeetCode 402, AtCoder 248, UVa 178, other judges 117, Toph 77, CodeChef 44. 2,450+ in total." width="100%" />
+
 </div>
 
 - **ICPC Asia Dhaka Regional 2023: [61st](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings).** Also 7th at the IUBAT Collaborative Contest 2023 and a BUET IUPC 2023 team.
-- **42 problems rated 1700 or higher**, the hardest at 2300, from a rating that once sat at 517.
-- **96% C++.** Peak hours are 8 to 10 PM Dhaka time, and the busiest month was April 2020 with 168 submissions.
-- **2,500+ problems and 300+ contests** across eight judges: Codeforces, CodeChef, AtCoder, LeetCode, LightOJ, Toph, UVa and VJudge. Codeforces alone accounts for 1,389 of them.
-- I also set and tested 15+ contest problems as Judging Director of the DIU Take-Off Programming Contest.
+- **42 Codeforces problems rated 1700 or higher**, the hardest at 2300, from a rating that once sat at 517.
+- **96% of my Codeforces submissions are C++.** Peak hours are 8 to 10 PM Dhaka time, and the busiest month was April 2020 with 168 submissions.
+- I set and tested 15+ contest problems as Judging Director of the DIU Take-Off Programming Contest.
 
 <div align="center">
 
@@ -49,20 +52,32 @@ I've been competing since 2020. This is what that looks like when you plot it, s
 
 <br/>
 
-## Things I build when nobody's asking
+## Things I build
 
-### [Notif Guardian](https://github.com/mahir-hs/notif-guardian) &nbsp;<sub>Kotlin · Jetpack Compose</sub>
-My Xiaomi phone kept delivering WhatsApp messages hours late. The usual advice is "enable autostart", and that wasn't the problem. So I went digging on the device and found the real culprit: HyperOS's *Millet* freezer was cgroup-freezing Google Play services, the process that carries every push notification, the moment the screen turned off. It was missing from a system no-restrict list, and the OS rewrote that list whenever it liked. Notif Guardian repairs it, and a tiny helper app puts it back within about 20 ms each time the system wipes it.
-**[How it works &rarr;](https://mahir-hs.github.io/notif-guardian/)**
+Every card links to the real repo. Tetris links to a version you can play right now.
 
-### [ParcelTrack](https://github.com/mahir-hs/ParcelTrack) &nbsp;<sub>.NET 10 · Kafka · Postgres · Redis · YARP</sub>
-Six microservices that follow parcels across Pathao, Steadfast and RedX: a gateway, a shipment service on Clean Architecture and CQRS with a transactional outbox, circuit-breaker polling, and HMAC-signed webhooks. A playground for the part of distributed systems nobody draws on the whiteboard: what happens on the retry.
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/notif-guardian"><img src="assets/cards/notif-guardian.svg" alt="notif-guardian, Kotlin: fixes delayed push notifications on Xiaomi HyperOS" width="100%" /></a></td>
+<td width="50%"><a href="https://mahir-hs.github.io/Tetris/"><img src="assets/cards/tetris.svg" alt="Tetris in Go with a WebAssembly build playable in the browser" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/ParcelTrack"><img src="assets/cards/parceltrack.svg" alt="ParcelTrack, C#: event-driven parcel tracking microservices" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/GPS-Tracking"><img src="assets/cards/gps.svg" alt="GPS-Tracking, Go: backend for 1,000+ devices over MQTT" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/db-migrator"><img src="assets/cards/db-migrator.svg" alt="db-migrator, Python: MSSQL to PostgreSQL migration tool" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/EMS"><img src="assets/cards/ems.svg" alt="EMS, C#: .NET 9 and Angular 18 over three databases" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/DRL-Bounded_Knapsack_problem"><img src="assets/cards/drl-knapsack.svg" alt="DRL Bounded Knapsack: thesis on deep reinforcement learning" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/WalletTopUpSystem"><img src="assets/cards/wallet-topup.svg" alt="WalletTopUpSystem, C#: wallet top-up approval with k6 load tests" width="100%" /></a></td>
+</tr>
+</table>
 
-### [GPS-Tracking](https://github.com/mahir-hs/GPS-Tracking) &nbsp;<sub>Go · MQTT · TimescaleDB · WebSocket</sub>
-Devices publish over MQTT, positions land in TimescaleDB, and clients watch them move live over WebSocket. All of it runs from one `docker compose up`.
+**The story behind Notif Guardian:** my Xiaomi phone kept delivering WhatsApp messages hours late. The usual advice is "enable autostart", and that wasn't the problem. On the device I traced it to HyperOS's *Millet* freezer cgroup-freezing Google Play services, the process that carries every push, the moment the screen turned off. It was missing from a system no-restrict list, and the OS rewrote that list whenever it liked. The app repairs it, and a tiny helper puts it back within about 20 ms each time the system wipes it. [Full write-up &rarr;](https://mahir-hs.github.io/notif-guardian/)
 
-### Brain MRI &times; graph neural networks &nbsp;<sub>Python · PyTorch Geometric</sub>
-Each scan becomes a 256-node graph and a GATv2 classifies four tumour types at 98.78%. Then I found my first train/test split had leaked near-duplicate images, threw out the flattering number and rebuilt the evaluation properly. I trust the honest one more.
+**More in the lab:** [Library Management](https://github.com/mahir-hs/library-management) (.NET API + Angular 19) · [Story Stream](https://github.com/mahir-hs/Story-Stream) (Python API with Elasticsearch search) · [LeetCode](https://github.com/mahir-hs/LeetCode) (C++ solutions) · [Code-Library](https://github.com/mahir-hs/Code-Library) (my C++ contest library) · [aws-learn](https://github.com/mahir-hs/aws-learn) and [ci-cd-learn](https://github.com/mahir-hs/ci-cd-learn) (learning in public) · [all repositories &rarr;](https://github.com/mahir-hs?tab=repositories)
 
 <br/>
 
@@ -92,6 +107,6 @@ I work on payments, wallets and a large SQL Server to PostgreSQL migration for a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<sub>Competitive stats are pulled from the Codeforces API and regenerated from the raw submission data.</sub>
+<sub>Competitive stats are read straight from each judge's data and drawn from the raw numbers.</sub>
 
 </div>

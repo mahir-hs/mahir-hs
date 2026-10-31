@@ -28,7 +28,6 @@ I've been competing since 2020, on every judge I could get an account on. Here's
 
 - **ICPC Asia Dhaka Regional 2023: [61st](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings).** Also 7th at the IUBAT Collaborative Contest 2023 and a BUET IUPC 2023 team.
 - **VJudge counts too.** 45 Codeforces, 61 UVa and 36 AtCoder solves went through VJudge's own bot accounts, so they never show on those judges' profiles. They're all in the panel above, each problem counted once.
-- I set and tested 15+ contest problems as Judging Director of the DIU Take-Off Programming Contest.
 
 <div align="center">
 
@@ -40,6 +39,18 @@ I've been competing since 2020, on every judge I could get an account on. Here's
 [![LightOJ](https://img.shields.io/badge/LightOJ-renzaluar-F5A623?style=for-the-badge)](https://lightoj.com/user/renzaluar)
 [![VJudge](https://img.shields.io/badge/VJudge-Renzaluar-3b82f6?style=for-the-badge)](https://vjudge.net/user/Renzaluar)
 [![UVa](https://img.shields.io/badge/UVa-1123586-8b5cf6?style=for-the-badge)](https://uhunt.onlinejudge.org/id/1123586)
+
+</div>
+
+<br/>
+
+## From the other side of the scoreboard
+
+I don't only compete, I run contests. In 2023 I was **Judging Director of the DIU Take-Off Programming Contest**: a 241-person main round, two preliminary slots and a 722-person mock round. I set one of the hardest problems (F, solved by 4 people) and reviewed another, and across contests I've set and tested 15+ problems. The whole editorial, with problem analyses and reference solutions, is public: **[Take-Off-Programming-Contest-Fall-2023 &rarr;](https://github.com/mahir-hs/Take-Off-Programming-Contest-Fall-2023)**
+
+<div align="center">
+
+<a href="https://github.com/mahir-hs/Take-Off-Programming-Contest-Fall-2023"><img src="assets/contest.svg" alt="Judging Director of TakeOff Fall-2023: 241 participants, 10 problems. Solves per problem from 172 down to 0, with problem F set by me (4 solves) and problem C reviewed by me." width="100%" /></a>
 
 </div>
 

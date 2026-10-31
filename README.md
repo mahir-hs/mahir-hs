@@ -18,17 +18,9 @@ Dhaka, Bangladesh &nbsp;·&nbsp; open to relocation and remote
 
 ## The arena
 
-I've been competing since 2020. This is what that looks like when you plot it, straight from the Codeforces API: 3,070 submissions and 120 rated contests, including the stretch where my rating collapsed and the climb back.
+I've been competing since 2020, on every judge I could get an account on. Here's the full count, de-duplicated across all of them.
 
 <div align="center">
-
-<img src="assets/cp_journey.svg" alt="Codeforces rating over 120 contests: fell to 517, climbed to a personal best of 1412. 1,389 problems solved, 629 active days, 20 day streak, hardest solved 2300." width="100%" />
-
-<br/><br/>
-
-<img src="assets/cp_heat.svg" alt="Heatmap of 3,070 Codeforces submissions from 2020 to 2024, with breakdowns by difficulty and topic" width="100%" />
-
-<br/><br/>
 
 <img src="assets/cp_judges.svg" alt="Problems solved per judge: Codeforces 1,434, LeetCode 402, AtCoder 284, UVa 239, LightOJ 98, VJudge-only judges 88, Toph 77, CodeChef 44. 2,650+ in total." width="100%" />
 
@@ -36,8 +28,6 @@ I've been competing since 2020. This is what that looks like when you plot it, s
 
 - **ICPC Asia Dhaka Regional 2023: [61st](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings).** Also 7th at the IUBAT Collaborative Contest 2023 and a BUET IUPC 2023 team.
 - **VJudge counts too.** 45 Codeforces, 61 UVa and 36 AtCoder solves went through VJudge's own bot accounts, so they never show on those judges' profiles. They're all in the panel above, each problem counted once.
-- **42 Codeforces problems rated 1700 or higher**, the hardest at 2300, from a rating that once sat at 517.
-- **96% of my Codeforces submissions are C++.** Peak hours are 8 to 10 PM Dhaka time, and the busiest month was April 2020 with 168 submissions.
 - I set and tested 15+ contest problems as Judging Director of the DIU Take-Off Programming Contest.
 
 <div align="center">

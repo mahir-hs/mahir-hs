@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Mahir Hasan Sifat" width="100%" />
+<img src="assets/banner.svg" alt="Animated 3D wireframe globe with orbiting rings and spinning solids above a neon perspective grid" width="100%" />
 
-<br/>
+<h1>Mahir Hasan Sifat</h1>
 
 **I solve hard problems for fun, then build backends that keep them solved.**
 

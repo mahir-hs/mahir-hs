@@ -30,11 +30,12 @@ I've been competing since 2020. This is what that looks like when you plot it, s
 
 <br/><br/>
 
-<img src="assets/cp_judges.svg" alt="Problems solved per judge: Codeforces 1,389, LeetCode 402, AtCoder 248, UVa 178, other judges 117, Toph 77, CodeChef 44. 2,450+ in total." width="100%" />
+<img src="assets/cp_judges.svg" alt="Problems solved per judge: Codeforces 1,434, LeetCode 402, AtCoder 284, UVa 239, LightOJ 98, VJudge-only judges 88, Toph 77, CodeChef 44. 2,650+ in total." width="100%" />
 
 </div>
 
 - **ICPC Asia Dhaka Regional 2023: [61st](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings).** Also 7th at the IUBAT Collaborative Contest 2023 and a BUET IUPC 2023 team.
+- **VJudge counts too.** 45 Codeforces, 61 UVa and 36 AtCoder solves went through VJudge's own bot accounts, so they never show on those judges' profiles. They're all in the panel above, each problem counted once.
 - **42 Codeforces problems rated 1700 or higher**, the hardest at 2300, from a rating that once sat at 517.
 - **96% of my Codeforces submissions are C++.** Peak hours are 8 to 10 PM Dhaka time, and the busiest month was April 2020 with 168 submissions.
 - I set and tested 15+ contest problems as Judging Director of the DIU Take-Off Programming Contest.
@@ -47,6 +48,8 @@ I've been competing since 2020. This is what that looks like when you plot it, s
 [![LeetCode](https://img.shields.io/badge/LeetCode-renzaluar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/renzaluar/)
 [![Toph](https://img.shields.io/badge/Toph-Mah1r__-2c3e50?style=for-the-badge)](https://toph.co/u/Mah1r_)
 [![LightOJ](https://img.shields.io/badge/LightOJ-renzaluar-F5A623?style=for-the-badge)](https://lightoj.com/user/renzaluar)
+[![VJudge](https://img.shields.io/badge/VJudge-Renzaluar-3b82f6?style=for-the-badge)](https://vjudge.net/user/Renzaluar)
+[![UVa](https://img.shields.io/badge/UVa-1123586-8b5cf6?style=for-the-badge)](https://uhunt.onlinejudge.org/id/1123586)
 
 </div>
 

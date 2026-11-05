@@ -81,6 +81,10 @@ Every card links to the real repo, and Tetris links to a version you can play ri
 <td width="50%"><a href="https://github.com/mahir-hs/WalletTopUpSystem"><img src="assets/cards/wallet-topup.svg" alt="WalletTopUpSystem, C#: wallet top-up service with a k6 load script" width="100%" /></a></td>
 <td width="50%"><a href="https://github.com/mahir-hs/Story-Stream"><img src="assets/cards/story-stream.svg" alt="Story Stream, Python: publishing platform API with Elasticsearch search" width="100%" /></a></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/mahir-hs/lamplore"><img src="assets/cards/lamplore.svg" alt="Lamplore, Kotlin: Android app for calm listening with 22,000 audiobooks, podcasts and bedtime stories" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/Yomi"><img src="assets/cards/yomi.svg" alt="Yomi, Kotlin: manga reader and anime player built on Aniyomi and Mihon" width="100%" /></a></td>
+</tr>
 </table>
 
 **The story behind Notif Guardian:** my Xiaomi phone kept delivering WhatsApp messages hours late. The usual advice is "enable autostart", and that wasn't the problem. On the device I traced it to HyperOS's *Millet* freezer cgroup-freezing Google Play services, the process that carries every push, the moment the screen turned off. It was missing from a system no-restrict list, and the OS rewrote that list whenever it liked. The app repairs it, and a tiny helper puts it back within about 20 ms each time the system wipes it. [Full write-up &rarr;](https://mahir-hs.github.io/notif-guardian/)

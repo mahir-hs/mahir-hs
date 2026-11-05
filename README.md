@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Animated 3D wireframe globe with orbiting rings and spinning solids above a neon perspective grid" width="100%" />
+<img src="assets/banner.gif" alt="Darth Vader walking out of the mist: You lack conviction." width="100%" />
 
 <h1>Mahir Hasan Sifat</h1>
 

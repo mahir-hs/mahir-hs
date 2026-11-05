@@ -62,12 +62,12 @@ Every card links to the real repo, and Tetris links to a version you can play ri
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/mahir-hs/notif-guardian"><img src="assets/cards/notif-guardian.svg" alt="notif-guardian, Kotlin: fixes delayed push notifications on Xiaomi HyperOS" width="100%" /></a></td>
+<td width="50%"><a href="https://mahir-hs.github.io/notif-guardian/"><img src="assets/cards/notif-guardian.svg" alt="notif-guardian, Kotlin: fixes delayed push notifications on Xiaomi HyperOS" width="100%" /></a></td>
 <td width="50%"><a href="https://mahir-hs.github.io/Tetris/"><img src="assets/cards/tetris.svg" alt="Tetris in Go with a WebAssembly build playable in the browser" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/mahir-hs/lamplore"><img src="assets/cards/lamplore.svg" alt="Lamplore, Kotlin: Android app for calm listening with 22,000 audiobooks, podcasts and bedtime stories" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/mahir-hs/Yomi"><img src="assets/cards/yomi.svg" alt="Yomi, Kotlin: manga reader and anime player built on Aniyomi and Mihon" width="100%" /></a></td>
+<td width="50%"><a href="https://mahir-hs.github.io/lamplore/"><img src="assets/cards/lamplore.svg" alt="Lamplore, Kotlin: Android app for calm listening with 22,000 audiobooks, podcasts and bedtime stories" width="100%" /></a></td>
+<td width="50%"><a href="https://mahir-hs.github.io/Yomi/"><img src="assets/cards/yomi.svg" alt="Yomi, Kotlin: manga reader and anime player built on Aniyomi and Mihon" width="100%" /></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/mahir-hs/ParcelTrack"><img src="assets/cards/parceltrack.svg" alt="ParcelTrack, C#: event-driven parcel tracking microservices" width="100%" /></a></td>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Darth Vader walking out of the mist: You lack conviction." width="100%" />
+<img src="assets/banner.webp" alt="Darth Vader walking out of the mist: You lack conviction." width="100%" />
 
 <h1>Mahir Hasan Sifat</h1>
 

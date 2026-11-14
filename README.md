@@ -70,19 +70,19 @@ Every card links to the real repo, and Tetris links to a version you can play ri
 <td width="50%"><a href="https://mahir-hs.github.io/Yomi/"><img src="assets/cards/yomi.svg" alt="Yomi, Kotlin: manga reader and anime player built on Aniyomi and Mihon" width="100%" /></a></td>
 </tr>
 <tr>
+<td width="50%"><a href="https://mahir-hs.github.io/inkdelta/"><img src="assets/cards/inkdelta.svg" alt="Inkdelta, Rust and TypeScript: desktop app that redlines every version of a Word document from Git history" width="100%" /></a></td>
 <td width="50%"><a href="https://github.com/mahir-hs/ParcelTrack"><img src="assets/cards/parceltrack.svg" alt="ParcelTrack, C#: event-driven parcel tracking microservices" width="100%" /></a></td>
+</tr>
+<tr>
 <td width="50%"><a href="https://github.com/mahir-hs/GPS-Tracking"><img src="assets/cards/gps.svg" alt="GPS-Tracking, Go: backend for 1,000+ devices over MQTT" width="100%" /></a></td>
-</tr>
-<tr>
 <td width="50%"><a href="https://github.com/mahir-hs/db-migrator"><img src="assets/cards/db-migrator.svg" alt="db-migrator, Python: MSSQL to PostgreSQL migration tool" width="100%" /></a></td>
+</tr>
+<tr>
 <td width="50%"><a href="https://github.com/mahir-hs/EMS"><img src="assets/cards/ems.svg" alt="EMS, C#: .NET 9 and Angular 18 over three databases" width="100%" /></a></td>
-</tr>
-<tr>
 <td width="50%"><img src="assets/cards/brain-mri.svg" alt="Brain MRI with graph neural networks: thesis, 98.78 percent accuracy over three seeds. Private repository." width="100%" /></td>
-<td width="50%"><a href="https://github.com/mahir-hs/DRL-Bounded_Knapsack_problem"><img src="assets/cards/drl-knapsack.svg" alt="DRL Bounded Knapsack: thesis on deep reinforcement learning" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/mahir-hs/WalletTopUpSystem"><img src="assets/cards/wallet-topup.svg" alt="WalletTopUpSystem, C#: wallet top-up service with a k6 load script" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mahir-hs/DRL-Bounded_Knapsack_problem"><img src="assets/cards/drl-knapsack.svg" alt="DRL Bounded Knapsack: thesis on deep reinforcement learning" width="100%" /></a></td>
 <td width="50%"><a href="https://github.com/mahir-hs/Story-Stream"><img src="assets/cards/story-stream.svg" alt="Story Stream, Python: publishing platform API with Elasticsearch search" width="100%" /></a></td>
 </tr>
 </table>
